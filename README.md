@@ -14,22 +14,32 @@ Gain valuable insights that will help improve online retail performance
 Provide analytic insights and data-driven recommendations</h3>
 <h3 align="left"> Conclusion:
   
-The customer with the highest number of orders comes from the United Kingdom (UK)
-The company receives the highest number of orders from customers in the UK (since it is a UK-based company). Therefore, the TOP 5 countries (including UK) that place the highest number of orders are as below: United Kingdom Germany France Ireland (EIRE) Spain
-November 2011 has the highest sales , highest active customer and highest order placed but has the minmum avg revenue
-The month with the lowest sales is undetermined as the dataset consists of transactions until 9th December 2011 in December
-The most of the sales on afternoon & lowest sales on night
-There is almost 25% NA value present which is quite large and that would impact the result.
-We have a large percentage of cancelled orders of 39.98%
-Top 5 country who cancelled orders are: United Kingdom
-Germany
-EIRE
-France
-USA
-Finding that new customer are generating more revenue as compare to old (existing).
-Most people buy less than 25 items.
-Number one product is white hanging heart T-light holder.
-Not clear why there are FREE items given to certain customers On average, the company gave out 2-4 times FREE items to customers each month (Except in June 2011 & dec 2011 full data is not available)</h3>
+1)The customer with the highest number of orders comes from the United Kingdom (UK)
+
+2)The company receives the highest number of orders from customers in the UK (since it is a UK-based company). Therefore, the TOP 5 countries (including UK) that place the highest number of orders are as below: United Kingdom, Germany, France, Ireland (EIRE), Spain.
+
+3)November 2011 has the highest sales , highest active customer and highest order placed but has the minmum avg revenue. 
+The month with the lowest sales is undetermined as the dataset consists of transactions until 9th December 2011 in December.
+
+4)The most of the sales on afternoon & lowest sales on night.
+
+5)There is almost 25% NA value present which is quite large and that would impact the result.
+
+6)We have a large percentage of cancelled orders of 39.98%
+
+7)Top 5 country who cancelled orders are: United Kingdom,
+Germany,
+EIRE,
+France,
+USA.
+
+8)Finding that new customer are generating more revenue as compare to old (existing).
+
+9)Most people buy less than 25 items.
+
+10)Number one product is white hanging heart T-light holder.
+
+11)Not clear why there are FREE items given to certain customers On average, the company gave out 2-4 times FREE items to customers each month (Except in June 2011 & dec 2011 full data is not available).</h3>
 <h3 align="left">Based on these results, here are some suggestion:
   
 1)Focus on top markets: Since most of your orders come from the UK, Germany, France, Ireland (EIRE), and Spain, it might be a good idea to focus your marketing efforts on these markets.
