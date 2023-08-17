@@ -8,7 +8,9 @@ In this project, you will be working with transactional data from an online reta
 <h3 align="left">Project Objectives:
   
 Describe data to answer key questions to uncover insights
+
 Gain valuable insights that will help improve online retail performance
+
 Provide analytic insights and data-driven recommendations</h3>
 <h3 align="left"> Conclusion:
   
