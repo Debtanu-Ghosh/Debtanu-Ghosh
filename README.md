@@ -1,4 +1,4 @@
-![logo](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/nEfo5q6NT0OfNjxPZOChxg_8c2d448d24d745d7ad59ead3eb71f0f1_6263.jpg?expiry=1692316800000&hmac=0gA8Ln50fLepPL0XsjDV3XsRRXYprONhBZWDSDsVuhY)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F03%2Fexploratory-data-analysis-on-terrorism-dataset%2F&psig=AOvVaw0pGPyPA4ybnk0JAsSA0J0w&ust=1705988839317000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjmrval8IMDFQAAAAAdAAAAABAD)
 <h1 align="center">Portfolio Project: Online Retail Exploratory Data Analysis with Python</h1>
 <h3 align="left">In this project, I will be step into the shoes of an entry-level data analyst at an online retail company, helping interpret real-world data to help make a key business decision.
 <h3 align="left"> Case Study:
