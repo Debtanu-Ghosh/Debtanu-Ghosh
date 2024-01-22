@@ -32,5 +32,5 @@ In this endeavor, my objective is to conduct exploratory data analysis, unveil p
 4. Clarify the free item policy for fair treatment.
 
 ## Languages and Tools
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30">
 
