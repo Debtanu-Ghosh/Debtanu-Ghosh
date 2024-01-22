@@ -1,57 +1,36 @@
-![logo](https://d2o2utebsixu4k.cloudfront.net/media/images/3a2daf59-b87d-453e-871c-070e4656267e.jpg)
-<h1 align="center">Portfolio Project: Online Retail Exploratory Data Analysis with Python</h1>
-<h3 align="left">In this project, I will be step into the shoes of an entry-level data analyst at an online retail company, helping interpret real-world data to help make a key business decision.
-<h3 align="left"> Case Study:
-  
-In this project, I will be working with transactional data from an online retail store. The dataset contains information about customer purchases, including product details, quantities, prices, and timestamps. My task is to explore and analyze this dataset to gain insights into the store's sales trends, customer behavior, and popular products. By conducting exploratory data analysis, I want to  identify patterns, outliers, and correlations in the data,  make data-driven decisions and recommendations to optimize the store's operations and improve customer satisfaction. Through visualizations and statistical analysis, I want to uncover key trends, such as the busiest sales months, best-selling products, and the store's most valuable customers. Ultimately, this project aims to provide actionable insights that can drive strategic business decisions and enhance the store's overall performance in the competitive online retail market.</h3>
+# Portfolio Project: Online Retail Exploratory Data Analysis with Python
+![Project Logo](https://d2o2utebsixu4k.cloudfront.net/media/images/3a2daf59-b87d-453e-871c-070e4656267e.jpg)
 
-<h3 align="left">Project Objectives:
-  
-Describe data to answer key questions to uncover insights
+## Introduction
+As an entry-level data analyst at an online retail company, I embarked on a journey to interpret real-world data and make crucial business decisions. This project involves exploring transactional data, unraveling sales trends, understanding customer behavior, and identifying popular products.
 
-Gain valuable insights that will help improve online retail performance
+## Case Study
+In this endeavor, my objective is to conduct exploratory data analysis, unveil patterns, outliers, and correlations, and provide actionable insights. Through visualizations and statistical analysis, I aim to optimize the store's operations and enhance customer satisfaction in the competitive online retail market.
 
-Provide analytic insights and data-driven recommendations</h3>
-<h3 align="left"> Conclusion:
-  
-1)The customer with the highest number of orders comes from the United Kingdom (UK)
+## Project Objectives
+- Describe data to answer key questions and uncover insights.
+- Gain valuable insights to improve online retail performance.
+- Provide analytic insights and data-driven recommendations.
 
-2)The company receives the highest number of orders from customers in the UK (since it is a UK-based company). Therefore, the TOP 5 countries (including UK) that place the highest number of orders are as below: United Kingdom, Germany, France, Ireland (EIRE), Spain.
+## Key Findings
+1. The customer with the highest number of orders is from the United Kingdom (UK).
+2. Top 5 countries with the highest orders: UK, Germany, France, Ireland (EIRE), Spain.
+3. November 2011 records the highest sales but has the lowest average revenue.
+4. Most sales occur in the afternoon, with the lowest sales at night.
+5. Approximately 25% NA values present, impacting results.
+6. 39.98% of orders are canceled.
+7. Top 5 countries with canceled orders: UK, Germany, EIRE, France, USA.
+8. New customers generate more revenue than existing ones.
+9. Most customers buy less than 25 items.
+10. The top product is the white hanging heart T-light holder.
+11. Unclear why FREE items are given; on average, 2-4 times/month (except June & Dec 2011).
 
-3)November 2011 has the highest sales , highest active customer and highest order placed but has the minmum avg revenue. 
-The month with the lowest sales is undetermined as the dataset consists of transactions until 9th December 2011 in December.
+## Recommendations
+1. Focus on top markets: UK, Germany, France, Ireland (EIRE), and Spain.
+2. Improve customer retention through loyalty programs or personalized promotions.
+3. Investigate and reduce canceled orders.
+4. Clarify the free item policy for fair treatment.
 
-4)The most of the sales on afternoon & lowest sales on night.
-
-5)There is almost 25% NA value present which is quite large and that would impact the result.
-
-6)We have a large percentage of cancelled orders of 39.98%
-
-7)Top 5 country who cancelled orders are: United Kingdom,
-Germany,
-EIRE,
-France,
-USA.
-
-8)Finding that new customer are generating more revenue as compare to old (existing).
-
-9)Most people buy less than 25 items.
-
-10)Number one product is white hanging heart T-light holder.
-
-11)Not clear why there are FREE items given to certain customers On average, the company gave out 2-4 times FREE items to customers each month (Except in June 2011 & dec 2011 full data is not available).</h3>
-<h3 align="left">Based on these results, here are some suggestion:
-  
-1)Focus on top markets: Since most of your orders come from the UK, Germany, France, Ireland (EIRE), and Spain, it might be a good idea to focus your marketing efforts on these markets.
-
-2)Improve customer retention: Since new customers are generating more revenue than existing customers, it might be a good idea to focus on improving customer retention. This can be done by offering loyalty programs or personalized promotions.
-
-3)Reduce cancelled orders: With a large percentage of cancelled orders, it might be a good idea to investigate why customers are cancelling their orders and take steps to reduce cancellations.
-
-4)Clarify free item policy: Since it is not clear why certain customers are receiving free items, it might be a good idea to clarify your free item policy to ensure that all customers are treated fairly.</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Languages and Tools
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
