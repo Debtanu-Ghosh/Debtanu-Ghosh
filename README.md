@@ -13,17 +13,28 @@ In this endeavor, my objective is to conduct exploratory data analysis, unveil p
 - Provide analytic insights and data-driven recommendations.
 
 ## Key Findings
-1. The customer with the highest number of orders is from the United Kingdom (UK).
-2. Top 5 countries with the highest orders: UK, Germany, France, Ireland (EIRE), Spain.
-3. November 2011 records the highest sales but has the lowest average revenue.
-4. Most sales occur in the afternoon, with the lowest sales at night.
-5. Approximately 25% NA values present, impacting results.
-6. 39.98% of orders are canceled.
-7. Top 5 countries with canceled orders: UK, Germany, EIRE, France, USA.
-8. New customers generate more revenue than existing ones.
-9. Most customers buy less than 25 items.
-10. The top product is the white hanging heart T-light holder.
-11. Unclear why FREE items are given; on average, 2-4 times/month (except June & Dec 2011).
+
+1. **Customer Insights:**
+   - Customer with the highest orders is from the United Kingdom (UK).
+   - New customers generate more revenue than existing ones.
+
+2. **Order Statistics:**
+   - Top 5 countries with the highest orders: UK, Germany, France, Ireland (EIRE), Spain.
+   - November 2011 records the highest sales.
+   - Approximately 25% NA values present, impacting results.
+   - 39.98% of orders are canceled.
+   - Top 5 countries with canceled orders: UK, Germany, EIRE, France, USA.
+   - Most customers buy less than 25 items.
+
+3. **Sales Timing:**
+   - Most sales occur in the afternoon, with the lowest sales at night.
+
+4. **Product Insights:**
+   - Top product is the white hanging heart T-light holder.
+
+5. **Free Items:**
+   - Unclear why FREE items are given; on average, 2-4 times/month (except June & Dec 2011).
+
 
 ## Recommendations
 1. Focus on top markets: UK, Germany, France, Ireland (EIRE), and Spain.
